@@ -3,8 +3,5 @@
 	url = https://github.com/Ruiz0430/Resume.git
 
 [submodule "MyArchive"]
-	path = MyArchive
-	url = https://github.com/COP4655-MobileApps-Fall2023/cop4655-mobile-apps-final-project-group-17.git
-[submodule "cop4655-mobile-apps-final-project-group-17"]
 	path = cop4655-mobile-apps-final-project-group-17
 	url = https://github.com/COP4655-MobileApps-Fall2023/cop4655-mobile-apps-final-project-group-17.git
